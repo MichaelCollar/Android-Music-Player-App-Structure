@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Titles - the best songs from 1970s [CHAR LIMIT=60] -->
+    <string name="seventies_title_1">You Light Up My Life</string>
+    <string name="seventies_title_2">Tonight\'s the Night (Gonna Be Alright)</string>
+    <string name="seventies_title_3">Le Freak</string>
+    <string name="seventies_title_4">How Deep Is Your Love</string>
+    <string name="seventies_title_5">I Just Want to Be Your Everything</string>
+    <string name="seventies_title_6">Silly Love Songs</string>
+    <string name="seventies_title_7">Let\'s Get It On</string>
+    <string name="seventies_title_8">Night Fever</string>
+    <string name="seventies_title_9">Tie a Yellow Ribbon Round the Ole Oak Tree</string>
+    <string name="seventies_title_10">Shadow Dancing</string>
+
+    <!-- Titles - the best songs from 1980s [CHAR LIMIT=60] -->
+    <string name="eighties_title_1">Physical</string>
+    <string name="eighties_title_2">Bette Davis Eyes</string>
+    <string name="eighties_title_3">Endless Love</string>
+    <string name="eighties_title_4">Eye of the Tiger</string>
+    <string name="eighties_title_5">Every Breath You Take</string>
+    <string name="eighties_title_6">Flashdance&#8230; What a Feeling</string>
+    <string name="eighties_title_7">Another One Bites the Dust</string>
+    <string name="eighties_title_8">Say Say Say</string>
+    <string name="eighties_title_9">Call Me</string>
+    <string name="eighties_title_10">Lady</string>
+
+    <!-- Titles - the best songs from 1990s [CHAR LIMIT=60] -->
+    <string name="nineties_title_1">How Do I Live</string>
+    <string name="nineties_title_2">Macarena (Bayside Boys Mix)</string>
+    <string name="nineties_title_3">Un-Break My Heart</string>
+    <string name="nineties_title_4">Foolish Games/You Were Meant For Me</string>
+    <string name="nineties_title_5">(Everything I Do) I Do It for You</string>
+    <string name="nineties_title_6">I\'ll Make Love to You</string>
+    <string name="nineties_title_7">Too Close</string>
+    <string name="nineties_title_8">One Sweet Day</string>
+    <string name="nineties_title_9">Truly Madly Deeply</string>
+    <string name="nineties_title_10">Something About the Way You Look Tonight</string>
+
+    <!-- Titles - the best songs from 2000s [CHAR LIMIT=60] -->
+    <string name="twothousands_title_1">We Belong Together</string>
+    <string name="twothousands_title_2">Yeah!</string>
+    <string name="twothousands_title_3">Low</string>
+    <string name="twothousands_title_4">I Gotta Feeling</string>
+    <string name="twothousands_title_5">How You Remind Me</string>
+    <string name="twothousands_title_6">No One</string>
+    <string name="twothousands_title_7">Boom Boom Pow</string>
+    <string name="twothousands_title_8">Let Me Love You</string>
+    <string name="twothousands_title_9">Gold Digger</string>
+    <string name="twothousands_title_10">Apologize</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="songs_list_item_height">136dp</dimen>
+    <dimen name="play_button_size">24dp</dimen>
+    <dimen name="download_button_size">24dp</dimen>
+    <dimen name="play_button_margin_left">56dp</dimen>
+    <dimen name="artist_title_item_height">68dp</dimen>
+    <dimen name="artist_title_item_margin_right">56dp</dimen>
+    <dimen name="artist_padding_top">16dp</dimen>
+    <dimen name="title_margin_bottom">16dp</dimen>
+    <dimen name="image_padding">16dp</dimen>
+    <dimen name="download_margin_right">16dp</dimen>
+
+</resources>

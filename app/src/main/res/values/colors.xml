@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Status bar color -->
+    <color name="status_bar_color">#00332b</color>
+
+    <!-- App bar color -->
+    <color name="app_bar_color">#004D40</color>
+
+    <!-- Background color for app -->
+    <color name="app_background">#00796B</color>
+
+    <!-- Background color for the seventies category -->
+    <color name="seventies_background">#00796B</color>
+
+    <!-- Background color for the eighties category -->
+    <color name="eighties_background">#00838F</color>
+
+    <!-- Background color for the nineties category -->
+    <color name="nineties_background">#2E7D32</color>
+
+    <!-- Background color for the two-thousands category -->
+    <color name="twothousands_background">#00344d</color>
+
+    <!-- Text color for Title and Artist TextView -->
+    <color name="title_artist">#ffffff</color>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Title for the app [CHAR LIMIT=30] -->
+    <string name="app_name">EVERLASTING HITS!</string>
+
+    <!-- Category name for the songs from seventies [CHAR LIMIT=10] -->
+    <string name="seventies">1970s</string>
+
+    <!-- Category name for the songs from eighties [CHAR LIMIT=10] -->
+    <string name="eighties">1980s</string>
+
+    <!-- Category name for the songs from nineties [CHAR LIMIT=10] -->
+    <string name="nineties">1990s</string>
+
+    <!-- Category name for the songs from two-thousands [CHAR LIMIT=10] -->
+    <string name="twothousands">2000s</string>
+
+    <!-- Footer button text [CHAR LIMIT=36] -->
+    <string name="buttonText">Did you know that&#8230;?</string>
+
+    <!-- Curiosity activity - the main text and title -->
+    <string name="curiosity">ELVIS PRESLEY wasn\'t just the King of Rock\'n\'Roll. He also has several records of all time on the Billboard charts:\n\n- 108 Billboard Hot 100 hits\n\n- 129 Billboard 200 charted albums\n\n- 67 weeks at No. 1 on the Billboard 200</string>
+    <string name="curiosity_title">Did you know that&#8230;</string>
+
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Artists - the best songs from 1970s [CHAR LIMIT=32] -->
+    <string name="seventies_artist_1">Debby Boone</string>
+    <string name="seventies_artist_2">Rod Stewart</string>
+    <string name="seventies_artist_3">Chic</string>
+    <string name="seventies_artist_4">Bee Gees</string>
+    <string name="seventies_artist_5">Andy Gibb</string>
+    <string name="seventies_artist_6">Wings</string>
+    <string name="seventies_artist_7">Marvin Gaye</string>
+    <string name="seventies_artist_8">Bee Gees</string>
+    <string name="seventies_artist_9">Dawn feat. Tony Orlando</string>
+    <string name="seventies_artist_10">Andy Gibb</string>
+
+    <!-- Artists - the best songs from 1980s [CHAR LIMIT=32] -->
+    <string name="eighties_artist_1">Olivia Newton-John</string>
+    <string name="eighties_artist_2">Kim Carnes</string>
+    <string name="eighties_artist_3">Lionel Richie / Diana Ross</string>
+    <string name="eighties_artist_4">Survivor</string>
+    <string name="eighties_artist_5">The Police</string>
+    <string name="eighties_artist_6">Irene Cara</string>
+    <string name="eighties_artist_7">Queen</string>
+    <string name="eighties_artist_8">Paul McCartney / Michael Jackson</string>
+    <string name="eighties_artist_9">Blondie</string>
+    <string name="eighties_artist_10">Kenny Rogers</string>
+
+    <!-- Artists - the best songs from 1990s [CHAR LIMIT=32] -->
+    <string name="nineties_artist_1">LeAnn Rimes</string>
+    <string name="nineties_artist_2">Los Del Rio</string>
+    <string name="nineties_artist_3">Toni Braxton</string>
+    <string name="nineties_artist_4">Jewel</string>
+    <string name="nineties_artist_5">Bryan Adams</string>
+    <string name="nineties_artist_6">Boyz II Men</string>
+    <string name="nineties_artist_7">Next</string>
+    <string name="nineties_artist_8">Mariah Carey / Boyz II Men</string>
+    <string name="nineties_artist_9">Savage Garden</string>
+    <string name="nineties_artist_10">Elton John</string>
+
+    <!-- Artists - the best songs from 2000s [CHAR LIMIT=32] -->
+    <string name="twothousands_artist_1">Mariah Carey</string>
+    <string name="twothousands_artist_2">Usher feat. Lil Jon and Ludacris</string>
+    <string name="twothousands_artist_3">Flo Rida featuring T-Pain</string>
+    <string name="twothousands_artist_4">The Black Eyed Peas</string>
+    <string name="twothousands_artist_5">Nickelback</string>
+    <string name="twothousands_artist_6">Alicia Keys</string>
+    <string name="twothousands_artist_7">The Black Eyed Peas</string>
+    <string name="twothousands_artist_8">Mario</string>
+    <string name="twothousands_artist_9">Kanye West feat. Jamie Foxx</string>
+    <string name="twothousands_artist_10">Timbaland feat. OneRepublic</string>
+
+</resources>
